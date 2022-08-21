@@ -1,0 +1,58 @@
+body {
+    background-image: url("https://cf.geekdo-images.com/MN0OvKejfrfwD6bupQHp4g__opengraph/img/X7AEF3jB6DmE7YOIsa9TDIk7NKw=/fit-in/1200x630/filters:strip_icc()/pic5623566.jpg");
+    background-size: cover;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+#container {
+    background: white;
+    max-width: 80%;
+    margin: 100px auto;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: black;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: solid 2px;
+    border-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#incrementone-btn {
+    background: darkred;
+}
+
+#incrementtwo-btn {
+    background: darkblue;
+}
+
+#incrementthree-btn {
+    background: powderblue;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
